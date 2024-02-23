@@ -1,0 +1,46 @@
+C:\Users\Student.ITSTEP1\source\repos\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+C:\Users\Student.ITSTEP1\source\repos\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+C:\Users\Student.ITSTEP1\source\repos\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+C:\Users\Student.ITSTEP1\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csprojAssemblyReference.cache
+C:\Users\Student.ITSTEP1\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\Student.ITSTEP1\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+C:\Users\Student.ITSTEP1\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\Student.ITSTEP1\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+C:\Users\Student.ITSTEP1\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
+C:\Users\DChaos\Desktop\Files\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+C:\Users\DChaos\Desktop\Files\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+C:\Users\DChaos\Desktop\Files\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+C:\Users\DChaos\Desktop\Files\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csprojAssemblyReference.cache
+C:\Users\DChaos\Desktop\Files\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\DChaos\Desktop\Files\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+C:\Users\DChaos\Desktop\Files\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\DChaos\Desktop\Files\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+C:\Users\DChaos\Desktop\Files\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
+C:\Users\DChaos\Desktop\Files\DirectoryFinder\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+C:\Users\DChaos\Desktop\Files\DirectoryFinder\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+C:\Users\DChaos\Desktop\Files\DirectoryFinder\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+C:\Users\DChaos\Desktop\Files\DirectoryFinder\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csprojAssemblyReference.cache
+C:\Users\DChaos\Desktop\Files\DirectoryFinder\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\DChaos\Desktop\Files\DirectoryFinder\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+C:\Users\DChaos\Desktop\Files\DirectoryFinder\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\DChaos\Desktop\Files\DirectoryFinder\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+C:\Users\DChaos\Desktop\Files\DirectoryFinder\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
+C:\Users\DChaos\source\repos\Files\DirectoryFinder\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+C:\Users\DChaos\source\repos\Files\DirectoryFinder\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+C:\Users\DChaos\source\repos\Files\DirectoryFinder\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+C:\Users\DChaos\source\repos\Files\DirectoryFinder\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csprojAssemblyReference.cache
+C:\Users\DChaos\source\repos\Files\DirectoryFinder\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\DChaos\source\repos\Files\DirectoryFinder\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+C:\Users\DChaos\source\repos\Files\DirectoryFinder\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\DChaos\source\repos\Files\DirectoryFinder\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+C:\Users\DChaos\source\repos\Files\DirectoryFinder\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
+J:\Всё с компа для переустановки винды\Загрузки\Telegram Desktop\Новая папка\Files\DirectoryFinder\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+J:\Всё с компа для переустановки винды\Загрузки\Telegram Desktop\Новая папка\Files\DirectoryFinder\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+J:\Всё с компа для переустановки винды\Загрузки\Telegram Desktop\Новая папка\Files\DirectoryFinder\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+J:\Всё с компа для переустановки винды\Загрузки\Telegram Desktop\Новая папка\Files\DirectoryFinder\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.AssemblyReference.cache
+J:\Всё с компа для переустановки винды\Загрузки\Telegram Desktop\Новая папка\Files\DirectoryFinder\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.SuggestedBindingRedirects.cache
+J:\Всё с компа для переустановки винды\Загрузки\Telegram Desktop\Новая папка\Files\DirectoryFinder\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+J:\Всё с компа для переустановки винды\Загрузки\Telegram Desktop\Новая папка\Files\DirectoryFinder\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+J:\Всё с компа для переустановки винды\Загрузки\Telegram Desktop\Новая папка\Files\DirectoryFinder\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+J:\Всё с компа для переустановки винды\Загрузки\Telegram Desktop\Новая папка\Files\DirectoryFinder\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+J:\Всё с компа для переустановки винды\Загрузки\Telegram Desktop\Новая папка\Files\DirectoryFinder\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
